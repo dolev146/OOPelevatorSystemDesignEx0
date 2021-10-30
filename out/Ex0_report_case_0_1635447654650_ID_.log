@@ -1,0 +1,85 @@
+**** The Simulator log: stage 0
+0.0,OOP_Ex0_Elevator_Simulator
+0.0,Simulated Building, ex0.simulator.Builging_A [0,1]
+0) ex0.simulator.Elevator_A, Elev_0, speed: 1.0, open/close: 2.0,  start/stop: 3.0
+0.0,Simulated Period starTime,0.0,  endTime,100.0,  dt,1.0
+0.0,Simulated  calls,Elevetor log, size: 10
+0.0,**** Simulation starts!! ****
+1.0,Elevator call,0.437472729039321,0,1,1,0, got allocated to elevator, 0
+1.0,Elev,0,  arrived at src, 0, Elevator call,0.437472729039321,0,1,2,0
+1.0, elevID,0,  pos,0,  cmd, goto,0
+2.0, elevID,0,  pos,0,  cmd, goto,1
+3.0,Elevator call,2.2094056301593525,0,1,1,0, got allocated to elevator, 0
+3.0, elevID,0,  pos,0,  cmd, stop,0
+, elevID,0,  pos,0,  WRONG cmd, stop,1,  the elevator is not moving!
+12.0,Elev,0,  arrived at src, 0, Elevator call,2.2094056301593525,0,1,2,0
+12.0, elevID,0,  pos,0,  cmd, goto,1
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+19.0,Elevator call,18.77299317966884,1,0,1,0, got allocated to elevator, 0
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+20.0,Elevator call,19.590869649656987,0,1,1,0, got allocated to elevator, 0
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+, elevID,0,  pos,1,  WRONG cmd, stop,0,  the elevator is not moving!
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+, elevID,0,  pos,1,  WRONG cmd, stop,0,  the elevator is not moving!
+23.0,Elev,0,  arrived at dest, 1, this call is done!, Elevator call,0.437472729039321,0,1,3,0, Done, dt, 22.56252727096068
+23.0,Elev,0,  arrived at dest, 1, this call is done!, Elevator call,2.2094056301593525,0,1,3,0, Done, dt, 20.790594369840647
+23.0,Elev,0,  arrived at src, 1, Elevator call,18.77299317966884,1,0,2,0
+23.0, elevID,0,  pos,1,  cmd, goto,0
+, elevID,0,  pos,0,  WRONG cmd, stop,0,  the elevator is not moving!
+, elevID,0,  pos,0,  WRONG cmd, stop,0,  the elevator is not moving!
+30.0,Elevator call,29.579433566814906,0,1,1,0, got allocated to elevator, 0
+, elevID,0,  pos,0,  WRONG cmd, stop,0,  the elevator is not moving!
+, elevID,0,  pos,0,  WRONG cmd, stop,0,  the elevator is not moving!
+, elevID,0,  pos,0,  WRONG cmd, stop,0,  the elevator is not moving!
+, elevID,0,  pos,0,  WRONG cmd, stop,1,  the elevator is not moving!
+34.0,Elevator call,33.242673193933555,0,1,1,0, got allocated to elevator, 0
+34.0,Elev,0,  arrived at dest, 0, this call is done!, Elevator call,18.77299317966884,1,0,3,0, Done, dt, 15.227006820331159
+34.0,Elev,0,  arrived at src, 0, Elevator call,19.590869649656987,0,1,2,0
+34.0,Elev,0,  arrived at src, 0, Elevator call,29.579433566814906,0,1,2,0
+34.0,Elev,0,  arrived at src, 0, Elevator call,33.242673193933555,0,1,2,0
+34.0, elevID,0,  pos,0,  cmd, goto,1
+34.0, elevID,0,  pos,0,  cmd, stop,0
+, elevID,0,  pos,0,  WRONG cmd, stop,0,  the elevator is not moving!
+, elevID,0,  pos,0,  WRONG cmd, stop,1,  the elevator is not moving!
+44.0, elevID,0,  pos,0,  cmd, goto,1
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+53.0,Elevator call,52.96277472128405,0,1,1,0, got allocated to elevator, 0
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+, elevID,0,  pos,1,  WRONG cmd, stop,0,  the elevator is not moving!
+55.0,Elev,0,  arrived at dest, 1, this call is done!, Elevator call,19.590869649656987,0,1,3,0, Done, dt, 35.40913035034301
+55.0,Elev,0,  arrived at dest, 1, this call is done!, Elevator call,29.579433566814906,0,1,3,0, Done, dt, 25.420566433185094
+55.0,Elev,0,  arrived at dest, 1, this call is done!, Elevator call,33.242673193933555,0,1,3,0, Done, dt, 21.757326806066445
+55.0, elevID,0,  pos,1,  cmd, goto,0
+, elevID,0,  pos,0,  WRONG cmd, stop,0,  the elevator is not moving!
+65.0,Elevator call,64.38547514955395,1,0,1,0, got allocated to elevator, 0
+, elevID,0,  pos,0,  WRONG cmd, stop,0,  the elevator is not moving!
+, elevID,0,  pos,0,  WRONG cmd, stop,1,  the elevator is not moving!
+66.0,Elev,0,  arrived at src, 0, Elevator call,52.96277472128405,0,1,2,0
+66.0, elevID,0,  pos,0,  cmd, goto,1
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+73.0,Elevator call,72.26161212799506,1,0,1,0, got allocated to elevator, 0
+, elevID,0,  pos,1,  WRONG cmd, stop,1,  the elevator is not moving!
+, elevID,0,  pos,1,  WRONG cmd, stop,0,  the elevator is not moving!
+77.0,Elev,0,  arrived at dest, 1, this call is done!, Elevator call,52.96277472128405,0,1,3,0, Done, dt, 24.03722527871595
+77.0,Elev,0,  arrived at src, 1, Elevator call,64.38547514955395,1,0,2,0
+77.0,Elev,0,  arrived at src, 1, Elevator call,72.26161212799506,1,0,2,0
+77.0, elevID,0,  pos,1,  cmd, goto,0
+81.0,Elevator call,80.56754743307536,1,0,1,0, got allocated to elevator, 0
+, elevID,0,  pos,1,  cmd, stop,1
+, elevID,0,  pos,1,  WRONG cmd, stop,0,  the elevator is not moving!
+87.0,Elev,0,  arrived at src, 1, Elevator call,80.56754743307536,1,0,2,0
+87.0, elevID,0,  pos,1,  cmd, goto,0
+, elevID,0,  pos,0,  WRONG cmd, stop,0,  the elevator is not moving!
+, elevID,0,  pos,0,  WRONG cmd, stop,0,  the elevator is not moving!
+, elevID,0,  pos,0,  WRONG cmd, stop,0,  the elevator is not moving!
+98.0,Elev,0,  arrived at dest, 0, this call is done!, Elevator call,64.38547514955395,1,0,3,0, Done, dt, 33.614524850446045
+98.0,Elev,0,  arrived at dest, 0, this call is done!, Elevator call,72.26161212799506,1,0,3,0, Done, dt, 25.738387872004935
+98.0,Elev,0,  arrived at dest, 0, this call is done!, Elevator call,80.56754743307536,1,0,3,0, Done, dt, 17.43245256692464
+100.0,************* Simulation Ended ************
+Code Owners,207867342,207296989,  Case,0,  Total waiting time: 241.9897426188186,  average waiting time per call: 24.19897426188186,  unCompleted calls,0,  certificate, -906441992

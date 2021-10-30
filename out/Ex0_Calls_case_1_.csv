@@ -1,0 +1,11 @@
+**** All Elevator Calls (time,src,dest,state,elev dt) stage 1 ****
+Elevator call,0.437472729039321,0,-1,3,0, Done, dt, 33.56252727096068
+Elevator call,2.2094056301593525,0,-1,3,0, Done, dt, 31.790594369840647
+Elevator call,18.77299317966884,-1,-2,3,0, Done, dt, 26.22700682033116
+Elevator call,19.590869649656987,0,7,2,0
+Elevator call,29.579433566814906,0,1,3,0, Done, dt, 38.420566433185094
+Elevator call,33.242673193933555,0,10,2,0
+Elevator call,52.96277472128405,3,-1,2,0
+Elevator call,64.38547514955395,-1,2,1,0
+Elevator call,72.26161212799506,10,0,1,0
+Elevator call,80.56754743307536,-1,-2,1,0
