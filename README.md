@@ -27,3 +27,12 @@ private double time;
 
 link to the UML charts
 [UML Lucid Chart](https://lucid.app/lucidchart/367d4a61-87a4-4e4c-9767-a1dd49466575/edit?view_items=fqumZbE4oneC&invitationId=inv_5034536b-bfcf-4c2a-8c27-61bfd397e94f)
+
+link to document 
+https://docs.google.com/document/d/1l9ErmQOO43h7CWvSCi9qsfjrew41ir_hT2OwL72IgG4/edit?usp=sharing
+
+link to instructions of part 1
+https://docs.google.com/document/d/1KMsfQpuENR16Kfofs30KCxE95hSp7xnXXze5xyj-Y6c/edit
+link to instructions of part 2
+https://docs.google.com/document/d/1_lXbS2P2m_jZ2m7h-9oRC8FiJIOTpoIBJWo6lwJ6Pv8/edit?usp=sharing
+
