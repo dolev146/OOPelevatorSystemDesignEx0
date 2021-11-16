@@ -36,3 +36,4 @@ https://docs.google.com/document/d/1KMsfQpuENR16Kfofs30KCxE95hSp7xnXXze5xyj-Y6c/
 link to instructions of part 2
 https://docs.google.com/document/d/1_lXbS2P2m_jZ2m7h-9oRC8FiJIOTpoIBJWo6lwJ6Pv8/edit?usp=sharing
 
+![elevatorDesignSystemOOP1ArielUniversityDolevAndDaniel](https://user-images.githubusercontent.com/62290677/142063417-70130ef3-f64c-4da0-a917-e01be173d5b5.png)
